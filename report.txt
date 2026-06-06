@@ -1,0 +1,14 @@
+        Transaction ID        Date Product Category           Product Name  ...   Unit Price  Total Revenue         Region Payment Method
+count        240.00000         240              240                    240  ...   240.000000     240.000000            240            240
+unique             NaN         240                6                    232  ...          NaN            NaN              3              3
+top                NaN  2024-01-01      Electronics  Dune by Frank Herbert  ...          NaN            NaN  North America    Credit Card
+freq               NaN           1               40                      2  ...          NaN            NaN             80            120
+mean       10120.50000         NaN              NaN                    NaN  ...   236.395583     335.699375            NaN            NaN
+std           69.42622         NaN              NaN                    NaN  ...   429.446695     485.804469            NaN            NaN
+min        10001.00000         NaN              NaN                    NaN  ...     6.500000       6.500000            NaN            NaN
+25%        10060.75000         NaN              NaN                    NaN  ...    29.500000      62.965000            NaN            NaN
+50%        10120.50000         NaN              NaN                    NaN  ...    89.990000     179.970000            NaN            NaN
+75%        10180.25000         NaN              NaN                    NaN  ...   249.990000     399.225000            NaN            NaN
+max        10240.00000         NaN              NaN                    NaN  ...  3899.990000    3899.990000            NaN            NaN
+
+[11 rows x 9 columns]
